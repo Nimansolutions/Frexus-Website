@@ -26,7 +26,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center group" data-testid="header-logo-link">
             <img 
-              src="https://customer-assets.emergentagent.com/job_freight-ops-support/artifacts/upj8a344_Image%201.png"
+              src="/apple-touch-icon.png"
               alt="Frexus - Powering Freight Forwarders"
               className="h-24 md:h-32 lg:h-40 w-auto object-contain group-hover:scale-105 transition-transform duration-300"
             />
